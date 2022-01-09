@@ -1,4 +1,4 @@
-#created by Dumortier Loic
+#created by lcdumort
 
 """
 This program represents a consecutive first-order reaction of the form A => B => C.
